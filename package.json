@@ -1,0 +1,16 @@
+{
+  "name": "@alexeisavca/json-analyzer",
+  "version": "0.0.1",
+  "description": "A tool to analyze JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tool",
+    "json",
+    "javascript"
+  ],
+  "author": "Alexei Savca",
+  "license": "ISC"
+}
